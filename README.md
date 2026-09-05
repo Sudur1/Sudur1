@@ -22,6 +22,8 @@ I'm a Roblox Developer & DevRel Ambassador from the Philippines. <br> Currently 
 <p align="center">
   <strong>Tools 🔨 </strong>
   <p align="center">
+  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=docker&logoColor=CF9FFF">
+  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=xampp&logoColor=CF9FFF">
   <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=CF9FFF">
   <img src="https://img.shields.io/badge/Lucidchart-DADEDF?style=for-the-badge&logo=lucid&logoColor=FF6700">
 </p>
