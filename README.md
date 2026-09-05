@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm MultipleStuds </h1>
 
 <p align="center">
-I'm a Roblox Developer & DevRel Ambassador from the Philippines. <br> Currently pursuing a degree in Computer Science, specializing in Intelligent Systems.
+I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Currently pursuing a degree in <b>Computer Science</b>, specializing in <b>Intelligent Systems</b>.
 </p>
 
 <br>
