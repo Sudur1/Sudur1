@@ -25,12 +25,6 @@ I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Current
 </p>
 
 <p align="center">
-  <strong>Tools 🔨 </strong>
-  <p align="center">
-  
-</p>
-
-<p align="center">
   <strong>Socials 👤 </strong>
   <p align="center">
 
