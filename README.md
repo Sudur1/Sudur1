@@ -12,11 +12,11 @@ I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Current
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Lua-darkblue?style=for-the-badge&logo=lua">
+  <img src="https://img.shields.io/badge/Luau-darkblue?style=for-the-badge&logo=luau">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
   <br>
-  <img src="https://img.shields.io/badge/Kubernetes-CED4DA?style=for-the-badge&logo=kubernetes&logoColor=3371E3">
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-CED4DA?style=for-the-badge&logo=kubernetes&logoColor=3371E3">
   <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=005896">
   <img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white">
   <br>
