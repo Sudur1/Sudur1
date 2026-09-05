@@ -17,6 +17,7 @@ I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Current
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Kubernetes-CED4DA?style=for-the-badge&logo=kubernetes&logoColor=3371E3">
   <img src="https://img.shields.io/badge/Docker-83CDE0?style=for-the-badge&logo=docker&logoColor=005896">
+  <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=005896">
 </p>
 
 <p align="center">
