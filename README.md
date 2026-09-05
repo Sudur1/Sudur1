@@ -27,7 +27,7 @@ Hi! I'm a Roblox Developer & DevRel Ambassador from the Philippines.
 </p>
 
 <p align="center">
-  <strong>LinkedIn 🔨 </strong>
+  <strong>Portfolio 👤 </strong>
   <p align="center">
   <a href="https://www.linkedin.com/in/juan-gabriel-victor-b833a52b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
