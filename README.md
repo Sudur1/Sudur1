@@ -16,17 +16,18 @@ I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Current
   <br>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Kubernetes-CED4DA?style=for-the-badge&logo=kubernetes&logoColor=3371E3">
-  <img src="https://img.shields.io/badge/Docker-83CDE0?style=for-the-badge&logo=docker&logoColor=005896">
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=005896">
+  <br>
+  <img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=CF9FFF">
+  <img src="https://img.shields.io/badge/Lucidchart-DADEDF?style=for-the-badge&logo=lucid&logoColor=FF6700">
 </p>
 
 <p align="center">
   <strong>Tools 🔨 </strong>
   <p align="center">
-  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=CF9FFF">
-  <img src="https://img.shields.io/badge/Lucidchart-DADEDF?style=for-the-badge&logo=lucid&logoColor=FF6700">
+  
 </p>
 
 <p align="center">
