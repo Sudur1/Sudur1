@@ -55,5 +55,5 @@ I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Current
 </p>
 
 <footer align="center">
-  <p>Forked from Marko's github :-).</p>
+  <p>Forked from [Marko's github](https://github.com/MarkoAcacio) :-).</p>
 </footer>
