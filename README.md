@@ -29,11 +29,20 @@ I'm a <b>Roblox Developer & DevRel Ambassador</b> from the 🇵🇭 <br> Current
 </p>
 
 <p align="center">
-  <strong>Portfolio 👤 </strong>
+  <strong>Socials 👤 </strong>
   <p align="center">
+
+  <a href="https://www.roblox.com/users/73510189/profile">
+  <img src="https://img.shields.io/badge/Roblox-red?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
+  </a>
+    
+  <a href="https://x.com/MultipleStuds">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="X">
+  </a>
+    
   <a href="https://www.linkedin.com/in/juan-gabriel-victor-b833a52b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  </a>
 </p>
 
 </p>
