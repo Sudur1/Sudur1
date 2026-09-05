@@ -48,9 +48,9 @@ Hi! I'm a Roblox Developer & DevRel Ambassador from the Philippines.
   <img src="https://komarev.com/ghpvc/?username=Sudur1&color=ff69b4&style=plastic&abbreviated=true" alt="Profile Views">
   <br>
   Email : 
-  <a href="mailto:juan.suduri@gmail.com">juan.suduri@gmail.com/a>
+  <a href="mailto:juan.suduri@gmail.com">juan.suduri@gmail.com</a>
 </p>
 
-<footer>
+<footer align="center">
   <p>Forked from Marko's github :-).</p>
 </footer>
