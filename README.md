@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm MultipleStuds </h1>
 
 <p align="center">
-Hi! I'm a Roblox Developer & DevRel Ambassador from the Philippines.
+I'm a Roblox Developer & DevRel Ambassador from the Philippines.
 </p>
 
 <br>
